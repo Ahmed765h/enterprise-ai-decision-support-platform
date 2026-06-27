@@ -1,0 +1,12 @@
+fastapi
+streamlit
+scikit-learn
+xgboost
+lightgbm
+pandas
+numpy
+plotly
+uvicorn
+python-multipart
+mlflow
+sqlalchemy
